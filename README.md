@@ -4,7 +4,7 @@
 
 <h3 align="center">
   <samp>&gt; Hey There! I'm
-    <b><a href="https://ayoubezzini.github.io" rel="nofollow" style="color: black;background: white;padding: 5px;">Ayoub EZZINI</a></b> - <i>call me Yi</i>
+    <b><a href="https://ayoubezzini.github.io" rel="nofollow">Ayoub EZZINI</a></b> - <i>call me Yi</i>
   </samp>
 </h3>
 
