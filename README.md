@@ -4,7 +4,7 @@
 
 <h3 align="center">
   <samp>&gt; Hey There! I'm
-    <b><a target="_blank" href="https://ayoubezzini.github.io">Ayoub EZZINI</a></b> - <i>call me Yi</i>
+    <b><a href="https://ayoubezzini.github.io" rel="nofollow" style="color: black;background: white;padding: 5px;">Ayoub EZZINI</a></b> - <i>call me Yi</i>
   </samp>
 </h3>
 
@@ -21,6 +21,6 @@
   <img src="https://img.shields.io/badge/Website-202020?style=for-the-badge&logo=abbott&logoColor=white" alt="ayoubezzini" />
  </a>
  <a href="https://linkedin.com/in/ayoubezzini" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="ayoubezzini"/>
+  <img src="https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=black" alt="ayoubezzini"/>
  </a>
 </p>
