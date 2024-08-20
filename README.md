@@ -18,14 +18,9 @@
 
 <p align="center">
  <a href="https://ayoubezzini.github.io" target="blank">
-  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="ayoubezzini" />
+  <img src="https://img.shields.io/badge/Website-4700d6?style=for-the-badge&logoColor=white" alt="ayoubezzini" />
  </a>
  <a href="https://linkedin.com/in/ayoubezzini" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="ayoubezzini"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white" alt="ayoubezzini"/>
  </a>
-</p>
-<br/>
-
-<p align="center">
-  <img src="https://myreadme.vercel.app/api/embed/ayoubezzini?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="Yi's stats" />
 </p>
