@@ -14,13 +14,3 @@
     <br>
   </samp>
 </p>
-<br>
-
-<p align="center">
- <a href="https://ezzini.ma" target="blank">
-  <img src="https://img.shields.io/badge/Website-202020?style=for-the-badge&logo=abbott&logoColor=white" alt="ayoubezzini" />
- </a>
- <a href="https://linkedin.com/in/ayoubezzini" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=black" alt="ayoubezzini"/>
- </a>
-</p>
